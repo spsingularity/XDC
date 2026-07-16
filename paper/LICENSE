@@ -1,0 +1,10 @@
+The manuscript text and figures in this directory (xdc.tex, xdc.pdf, and figs/)
+are licensed under the Creative Commons Attribution 4.0 International License
+(CC-BY-4.0): https://creativecommons.org/licenses/by/4.0/
+
+All code elsewhere in this repository is licensed under the MIT License
+(see ../LICENSE).
+
+The A&A class files (aa.cls, aa.bst) are the property of EDP Sciences and are
+redistributed here only to allow the manuscript to be compiled; they are not
+covered by the licenses above.

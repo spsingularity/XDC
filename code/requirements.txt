@@ -1,0 +1,7 @@
+numpy>=2.0
+scipy>=1.10
+astropy>=5.0
+matplotlib>=3.5
+eazy>=0.8
+# After install, fetch eazy's templates + filter curves once:
+#   python3 -c "import eazy; eazy.fetch_eazy_photoz()"

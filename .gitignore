@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*Notes.bib
+
+# Data (download separately; see data/README.md)
+*.fits
+*.fits.gz

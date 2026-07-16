@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or the XDC test, please cite it using the metadata below."
+title: "XDC — Cross-Depth measurement of correlated selection bias in high-redshift galaxies"
+abstract: >-
+  A model-independent measurement of correlated selection bias in JWST high-redshift galaxies,
+  using survey depth as an exclusion restriction (a Heckman-style sample-selection framing). Two-depth
+  SED refitting of JADES DR5 shows the bias is observable-dependent: negative for stellar mass (the
+  mass function is buffered), a coherent spectrum of younger/bluer/higher-sSFR biases near the
+  detection limit, with a sign that flips at the Balmer break. Includes the estimator, mock
+  validation, and the real-data runners.
+type: software
+authors:
+  - family-names: Pandev
+    given-names: Stilian
+    orcid: "https://orcid.org/0009-0005-8153-071X"
+    email: stilianpandev@gmail.com
+license: MIT
+repository-code: "https://github.com/spsingularity/XDC"
+version: "2.0.0"
+date-released: "2026-07-21"
+keywords:
+  - "galaxies: high-redshift"
+  - "luminosity function"
+  - "mass function"
+  - "selection bias"
+  - "Eddington bias"
+  - "JWST"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21400942"
+    description: "Concept DOI (all versions) on Zenodo"
